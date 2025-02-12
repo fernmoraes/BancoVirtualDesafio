@@ -38,8 +38,6 @@ public class Main {
                 } else {
                     bankBalance -= value;
                 }
-
-
             }else if (option != 4){
                 System.out.println("Opção inválida");
             }
